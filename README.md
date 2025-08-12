@@ -17,7 +17,7 @@ Um gerenciador de tarefas simples feito em Python com interface de linha de coma
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/gerenciador-tarefas.git
+git clone https://github.com/thiagoalberti/gerenciador-tarefas.git
 
 2. Execute o Script:
 python tarefas.py
